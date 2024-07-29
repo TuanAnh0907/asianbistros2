@@ -1,0 +1,623 @@
+body {
+    background: #fbebd6 url(/templates/tyl02/images/body.jpg) no-repeat 50% 0%;
+    color: #6b6b6b;
+}
+
+dl {
+    color: #6b6b6b;
+}
+
+dl dt {
+    background: url(/templates/tyl02/images/line.gif) repeat-x 0% 0%;
+    color: #fff;
+}
+
+dl dt:first-child {
+    background: none;
+}
+
+.logo h1 a,
+.logo h2 a {
+    color: #fefdfc;
+}
+
+#slider {
+    background: url(/templates/tyl02/images/loading.gif) no-repeat 50% 50%;
+}
+
+.nivo-controlNav a {
+    background: url(/templates/tyl02/images/pagination.png) no-repeat 0% 0%;
+}
+
+.nivo-controlNav a.active, .nivo-controlNav a:hover {
+    background-position: 0% -28px;
+}
+
+nav.primary:before {
+    background: #000;
+}
+
+.sf-menu ul {
+    background: #000;
+}
+
+.sf-menu li {
+    background: none;
+}
+
+.sf-menu li a {
+    background: url(/templates/tyl02/images/menu.gif) repeat-x 0% 0%;
+    color: #fefdfc;
+}
+
+.sf-menu li li {
+    background: none;
+}
+
+.sf-menu li li a {
+    background: #212121;
+    color: #6b6b6b;
+}
+
+.sf-menu li li li {
+    background: none;
+}
+
+.sf-menu li li li a {
+    background: #212121;
+    color: #6b6b6b;
+}
+
+.sf-menu li:hover > a, .sf-menu li.sfHover > a,
+.sf-menu li > a:focus, .sf-menu li > a:hover, .sf-menu li > a:active, .sf-menu li.current-menu-item > a {
+    background-position: 0% -80px;
+}
+
+.sf-menu li li:hover > a, .sf-menu li li.sfHover > a,
+.sf-menu li li > a:focus, .sf-menu li li > a:hover, .sf-menu li li > a:active, .sf-menu li li.current-menu-item > a {
+    background-position: 0% -80px;
+    color: #fff;
+}
+
+.primary_content_wrap {
+    background: #e9c558;
+}
+
+.primary_content_wrap ul li {
+    color: #6b6b6b;
+}
+
+
+.primary_content_wrap ul li a {
+    color: #732d03;
+}
+
+.primary_content_wrap ul li a:hover {
+    color: #000;
+}
+
+#content {
+    background: #181818 ;
+}
+
+h3#comments {
+    border-top: 10px solid #000;
+}
+
+ol.commentlist li.comment {
+    background: none;
+}
+
+ol.commentlist li.comment .comment-body {
+    background: #000;
+    border: 1px solid #2e2e2e;
+    color: #6b6b6b;
+}
+
+.comment-author .author {
+    color: #fff;
+}
+
+.comment-meta {
+    color: #fff;
+}
+
+li.comment .avatar {
+    border: 1px solid #eee;
+}
+
+.reply a {
+    background: #000;
+    border: 1px solid #252525;
+    color: #fefdfc !important;
+}
+
+.reply a:before {
+    border: 3px solid #515151;
+}
+
+.allowed_tags {
+    background: #eee;
+    color: #666;
+}
+
+.cancel-comment-reply a {
+    color: #fff !important;
+}
+
+.post-holder {
+    background: url(/templates/tyl02/images/line_1.gif) repeat-x 0% 0%;
+}
+
+article.post-holder.first {
+    background: none;
+}
+
+.frame {
+    background: #fff ;
+}
+
+.frame.alignleft {
+    background: #181818 ;
+}
+
+.frame.alignright {
+    background: none;
+    border: 1px solid #212121;
+}
+
+.pagenavi {
+    background: url(/templates/tyl02/images/line_1.gif) repeat-x 0% 0%;
+}
+
+.pagenavi span, .pagenavi a {
+    background: #000;
+    border: 1px solid #252525;
+    color: #fefdfc;
+}
+
+.pagenavi span:before, .pagenavi a:before {
+    border: 3px solid #515151;
+}
+
+.single-oldernewer {
+    border-top: 1px solid #2e2e2e;
+    border-bottom: 1px solid #2e2e2e;
+}
+
+.g_pagination ul li {
+    background: none;
+}
+
+.g_pagination ul li a {
+    background: #000;
+}
+
+.g_pagination li.activeSlide a,
+.g_pagination li a:hover {
+    background: #999;
+}
+
+.g_controls a {
+    background: #000;
+    color: #fff;
+}
+
+.g_controls a:hover {
+    background: #999;
+}
+
+#post-author {
+    border: 1px solid #dbdbdb;
+}
+
+#post-author .gravatar img {
+    background: #fff;
+    border: 1px solid #dbdbdb;
+}
+
+.author-info {
+    background: url(/templates/tyl02/images/line_1.gif) repeat-x 0% 100%;
+}
+
+.author-info .avatar img {
+    background: #fff;
+    border: 1px solid #dbdbdb;
+}
+
+.error404-num {
+    color: #999;
+}
+
+.header-title .page-desc {
+    color: #999;
+}
+
+#gallery .portfolio li {
+    background: none;
+    color: #6b6b6b;
+}
+
+#gallery .portfolio li a.image-wrap {
+    background: #f5f5f5 url(/templates/tyl02/images/loading-folio.gif) 50% 50% no-repeat;
+}
+
+.zoom-icon:before {
+    background: url(/templates/tyl02/images/magnify-alt.png) 50% 50% no-repeat;
+}
+
+ul.portfolio-meta-list {
+    border-top: 1px solid #2e2e2e;
+    border-bottom: 1px solid #2e2e2e;
+}
+
+ul.portfolio-meta-list li {
+    background: none;
+}
+
+#sidebar .widget {
+    background: #181818 url(/templates/tyl02/images/widget.gif) repeat-x 0% 0%;
+}
+
+.widget_my_cyclewidget {
+    background: none !important;
+    border: 1px solid #212121 !important;
+}
+
+#wp-calendar caption {
+    color: #fff;
+}
+
+#wp-calendar thead th {
+    background: #fff;
+    color: #000;
+}
+
+ul.recentcomments li {
+    border-top: 1px solid #c6c6c6;
+    background: none;
+}
+
+ul.recentcomments .comment-body a {
+    color: #96999d;
+}
+
+ul.recentcomments .comment-body a:hover {
+    color: #000;
+}
+
+ul.recentcomments li h4 a:hover {
+    color: #000;
+}
+
+ul.recentcomments li small {
+    color: #6a6a6a;
+}
+
+.testimonials div.testi_item {
+    background: none;
+}
+
+.testimonials div.testi_item blockquote {
+    background: #dbdbdb;
+}
+
+.testimonials div.testi_item blockquote:after {
+    background: url(/templates/tyl02/images/quotes.png) 0 0 no-repeat;
+}
+
+.testimonials div.testi_item blockquote a {
+    color: #4e4e4e;
+}
+
+.testimonials div.testi_item blockquote a:hover {
+    color: #ffffff;
+}
+
+article.testimonial {
+    background: url(/templates/tyl02/images/quotes.png) no-repeat 160px 25px;
+    border: 1px solid #2e2e2e;
+}
+
+article.testimonial .name-testi {
+    color: #6b6b6b;
+}
+
+.tags-cloud a,
+.tagcloud a,
+.post-footer a {
+    background: #e0e0e0;
+    color: #000;
+}
+
+.tags-cloud a:hover,
+.tagcloud a:hover,
+.post-footer a:hover {
+    background: #000;
+    color: #fff;
+}
+
+.box_1 {
+    background: #ccc url(/templates/tyl02/images/box_1.gif) repeat-x 0% 0%;
+}
+
+.box_2 {
+    border: 1px solid #212121;
+}
+
+.box_3 {
+    border: 1px solid #212121;
+}
+
+.box_3 strong {
+    color: #6b6b6b;
+}
+
+.box_4 {
+    border: 1px solid #212121;
+}
+
+div.text {
+    color: #000;
+}
+
+a.button {
+    background: #000;
+    border: 1px solid #252525;
+    color: #fefdfc !important;
+}
+
+a.button:before {
+    border: 3px solid #515151;
+}
+
+ul.latestpost li {
+    background: url(/templates/tyl02/images/line.gif) repeat-x 0% 0%;
+    color: #6b6b6b;
+}
+
+ul.social-networks li {
+    background: none;
+}
+
+ul.news li {
+    background: url(/templates/tyl02/images/line.gif) repeat-x 0% 0%;
+    color: #6b6b6b;
+}
+
+ul.news li:first-child {
+    background: none;
+}
+
+ul.news li time {
+    color: #fff;
+}
+
+ul.news li i {
+    color: #fefdfc;
+}
+
+ul.news li i a {
+    color: #fefdfc;
+}
+
+ul.news li i a:hover {
+    color: #6b6b6b;
+}
+
+ul.posts li {
+    background: url(/templates/tyl02/images/line_1.gif) repeat-x 0% 0%;
+    color: #6b6b6b;
+}
+
+ul.posts li:first-child {
+    background: none;
+}
+
+ul.posts li a.button {
+    background: none;
+    color: #fefdfc !important;
+}
+
+ul.info li {
+    background: none;
+    color: #6b6b6b;
+}
+
+ul.info li a {
+    color: #fff;
+}
+
+ul.info li a:hover {
+    color: #fff;
+}
+
+ul.list li {
+    background: url(/templates/tyl02/images/line_1.gif) repeat-x 0% 0%;
+}
+
+ul.list li:first-child {
+    background: none;
+}
+
+ul.list li em {
+    background: url(/templates/tyl02/images/list_item.png) no-repeat 0% 0%;
+    color: #fefdfc;
+}
+
+ul.list li strong {
+    color: #fff;
+}
+
+ul.events li {
+    background: url(/templates/tyl02/images/line_1.gif) repeat-x 0% 0%;
+    color: #6b6b6b;
+}
+
+ul.events li:first-child, ul.events li:nth-child(2) {
+    background: none;
+}
+
+ul.events li a.button {
+    background: none;
+    color: #fefdfc !important;
+}
+
+ul.reviews li {
+    background: url(/templates/tyl02/images/line_1.gif) repeat-x 0% 0%;
+}
+
+ul.reviews li:first-child {
+    background: none;
+}
+
+ul.reviews li blockquote {
+    background: url(/templates/tyl02/images/quotes.png) no-repeat 0% 5px;
+    color: #6b6b6b;
+}
+
+ul.reviews li blockquote a {
+    color: #6b6b6b;
+}
+
+ul.reviews li blockquote a:hover {
+    color: #fff;
+}
+
+ul.archive li {
+    background: none;
+    color: #fff;
+}
+
+.testi-info {
+    color: #6b6b6b;
+}
+
+.testi-info span.user {
+    color: #fff;
+}
+
+.post-meta {
+    color: #fff;
+}
+
+.post-meta a {
+    color: #fff;
+}
+
+.post-meta a:hover {
+    color: #6b6b6b;
+}
+
+.footer_block em {
+    color: #fefdfc;
+}
+
+.footer_block em a {
+    color: #fefdfc;
+}
+
+.footer_block em a:hover {
+    color: #6b6b6b;
+}
+
+#footer .container {
+    background: #e9c558;
+}
+
+nav.footer ul li {
+    color: #6b6b6b;
+}
+
+nav.footer ul li a {
+    color: #6b6b6b;
+}
+
+nav.footer ul li a:hover, nav.footer ul li.current-menu-item a {
+    color: #fff;
+}
+
+#footer-text {
+    color: #333;
+}
+
+#footer-text a {
+    color: #333;
+}
+
+#footer-text a:hover {
+    color: #990000;
+}
+
+#back-top a {
+    color: #bbb;
+}
+
+#back-top span {
+    background: url(/templates/tyl02/images/up-arrow.png) no-repeat center center;
+}
+
+.google-map {
+    background-image: url(/templates/tyl02/images/loading-map.gif);
+}
+
+input[type="text"], textarea {
+    background: #fff;
+    border: 1px solid #2e2e2e;
+    color: #6b6b6b;
+}
+
+input[type="password"], textarea {
+    background: #fff;
+    border: 1px solid #2e2e2e;
+    color: #6b6b6b;
+}
+
+input[type="submit"], input[type="reset"] {
+    background: #990000;
+    border: 1px solid #252525;
+    color: #fefdfc;
+}
+
+input[type="submit"]:hover, input[type="reset"]:hover {
+    border: 3px solid #515151;
+}
+
+#commentform small {
+    color: #8b8b8b;
+}
+
+#commentform a {
+    color: #fff !important;
+}
+
+#commentform label {
+    color: #6b6b6b;
+}
+
+.wpcf7-not-valid-tip {
+    background: #f3b7b7 !important;
+    color: red !important;
+    border: 1px solid red !important;
+}
+
+/*
+     FILE ARCHIVED ON 07:45:34 Dec 05, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:50:21 Jul 29, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.577
+  exclusion.robots: 0.028
+  exclusion.robots.policy: 0.012
+  esindex: 0.012
+  cdx.remote: 8.464
+  LoadShardBlock: 143.138 (3)
+  PetaboxLoader3.datanode: 230.283 (4)
+  PetaboxLoader3.resolve: 181.635 (2)
+  load_resource: 281.279
+*/
